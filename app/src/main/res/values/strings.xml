@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alka Hospital</string>
+    <string name="valid_username">Please Enter valid username</string>
+    <string name="valid_password">Please Enter valid password</string>
+
+    <string name="valid_fullname">Name should not be empty</string>
+    <string name="valid_phone">Phone Number should not be empty</string>
+    <string name="valid_address">Address should not be empty</string>
+    <string name="Password">Password should be atleast 8 characters</string>
+    <string name="Re_password">Password should be match</string>
+
+</resources>
